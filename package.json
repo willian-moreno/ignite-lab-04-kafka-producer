@@ -1,0 +1,23 @@
+{
+	"name": "ignite-lab-04-kafka-producer",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"start": "node producer.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/willian-moreno/ignite-lab-04.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/willian-moreno/ignite-lab-04/issues"
+	},
+	"homepage": "https://github.com/willian-moreno/ignite-lab-04#readme",
+	"dependencies": {
+		"kafkajs": "^2.2.3"
+	}
+}
